@@ -1,0 +1,124 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{barringer2020worldwide}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=5ff994b58281db1b89cd0ec7034b99fd}{%
+           family={Barringer},
+           familyi={B\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0ce73c89463544578a66a0a6efbaf299}{%
+           family={Ciafré},
+           familyi={C\bibinitperiod},
+           given={Claire\bibnamedelima M},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press US}%
+      }
+      \strng{namehash}{5702fe00828fffd2f9d24da697b62119}
+      \strng{fullhash}{5702fe00828fffd2f9d24da697b62119}
+      \strng{fullhashraw}{5702fe00828fffd2f9d24da697b62119}
+      \strng{bibnamehash}{5702fe00828fffd2f9d24da697b62119}
+      \strng{authorbibnamehash}{5702fe00828fffd2f9d24da697b62119}
+      \strng{authornamehash}{5702fe00828fffd2f9d24da697b62119}
+      \strng{authorfullhash}{5702fe00828fffd2f9d24da697b62119}
+      \strng{authorfullhashraw}{5702fe00828fffd2f9d24da697b62119}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Entomology}
+      \field{number}{5}
+      \field{title}{Worldwide feeding host plants of spotted lanternfly, with significant additions from North America}
+      \field{volume}{49}
+      \field{year}{2020}
+      \field{pages}{999\bibrangedash 1011}
+      \range{pages}{13}
+    \endentry
+    \entry{horton2021mcm}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=7144298393ec4775888ee8e75fea9e0f}{%
+           family={Horton},
+           familyi={H\bibinitperiod},
+           given={Steven\bibnamedelima B},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {AMS}%
+      }
+      \strng{namehash}{7144298393ec4775888ee8e75fea9e0f}
+      \strng{fullhash}{7144298393ec4775888ee8e75fea9e0f}
+      \strng{fullhashraw}{7144298393ec4775888ee8e75fea9e0f}
+      \strng{bibnamehash}{7144298393ec4775888ee8e75fea9e0f}
+      \strng{authorbibnamehash}{7144298393ec4775888ee8e75fea9e0f}
+      \strng{authornamehash}{7144298393ec4775888ee8e75fea9e0f}
+      \strng{authorfullhash}{7144298393ec4775888ee8e75fea9e0f}
+      \strng{authorfullhashraw}{7144298393ec4775888ee8e75fea9e0f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 Joint Mathematics Meetings (JMM)}
+      \field{title}{MCM Director’s Overview of the Mathematical Contest in Modeling: What Advisors Need to Know.}
+      \field{year}{2021}
+    \endentry
+    \entry{urban}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4f49f9bcebf44720382dce8902a64191}{%
+           family={Urban},
+           familyi={U\bibinitperiod},
+           given={Julie\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6720c60469e0618bba38fe5a241114e3}{%
+           family={Leach},
+           familyi={L\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{2acd5624a7125faed5df8d9f1625f4a5}
+      \strng{fullhash}{2acd5624a7125faed5df8d9f1625f4a5}
+      \strng{fullhashraw}{2acd5624a7125faed5df8d9f1625f4a5}
+      \strng{bibnamehash}{2acd5624a7125faed5df8d9f1625f4a5}
+      \strng{authorbibnamehash}{2acd5624a7125faed5df8d9f1625f4a5}
+      \strng{authornamehash}{2acd5624a7125faed5df8d9f1625f4a5}
+      \strng{authorfullhash}{2acd5624a7125faed5df8d9f1625f4a5}
+      \strng{authorfullhashraw}{2acd5624a7125faed5df8d9f1625f4a5}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Entomology}
+      \field{number}{1}
+      \field{title}{Biology and management of the spotted lanternfly, Lycorma delicatula (Hemiptera: Fulgoridae), in the United States}
+      \field{volume}{68}
+      \field{year}{2023}
+      \field{pages}{151\bibrangedash 167}
+      \range{pages}{17}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
